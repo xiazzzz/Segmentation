@@ -1,7 +1,7 @@
 import os
 import glob
 import argparse
-import numpy as npc
+import numpy as np
 
 from sklearn.metrics import jaccard_score, f1_score, precision_score, recall_score
 from skimage.io import imread
