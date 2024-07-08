@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="24">
+            <item index="0" class="java.lang.String" itemvalue="opencv-contrib-python" />
+            <item index="1" class="java.lang.String" itemvalue="dataclasses" />
+            <item index="2" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="3" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="4" class="java.lang.String" itemvalue="torch" />
+            <item index="5" class="java.lang.String" itemvalue="numpy" />
+            <item index="6" class="java.lang.String" itemvalue="torchvision" />
+            <item index="7" class="java.lang.String" itemvalue="albumentations" />
+            <item index="8" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="9" class="java.lang.String" itemvalue="seaborn" />
+            <item index="10" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="11" class="java.lang.String" itemvalue="config" />
+            <item index="12" class="java.lang.String" itemvalue="yaml" />
+            <item index="13" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="14" class="java.lang.String" itemvalue="torchmetrics" />
+            <item index="15" class="java.lang.String" itemvalue="libwebp-base" />
+            <item index="16" class="java.lang.String" itemvalue="xz" />
+            <item index="17" class="java.lang.String" itemvalue="zlib" />
+            <item index="18" class="java.lang.String" itemvalue="libpng" />
+            <item index="19" class="java.lang.String" itemvalue="lz4-c" />
+            <item index="20" class="java.lang.String" itemvalue="torchaudio-0.12.1-py39_cu113" />
+            <item index="21" class="java.lang.String" itemvalue="torchvision-0.13.1-py39_cu113" />
+            <item index="22" class="java.lang.String" itemvalue="jpeg" />
+            <item index="23" class="java.lang.String" itemvalue="freetype" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
